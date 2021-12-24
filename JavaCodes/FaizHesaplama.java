@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InterestCalculate {
+public class FaizHesaplama {
     public static void main(String[] args){
         Scanner s=new Scanner(System.in);
         int select;
