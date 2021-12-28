@@ -25,7 +25,7 @@ public class InterestCalculate {
                 System.out.println("8. SOL");
                 System.out.println("9. Return the select compound frequency");
                 System.out.println("10. Exit");
-                System.out.println("Select currency!");
+                System.out.println("Sele00ct currency!");
                 n=s.nextInt();
                 String input;
                 if(n==1) input="USD";
